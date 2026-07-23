@@ -1,7 +1,26 @@
 aid: 3com
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/3com.png
 name: 3com
-description: 3com is a company surfaced as a portfolio company of mayfield and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 3Com Corporation was a networking-technology pioneer founded in 1979 by Robert Metcalfe,
+  the co-inventor of Ethernet, and colleagues; its name derived from "Computer, Communication, and
+  Compatibility." 3Com built Ethernet network interface cards, switches, routers, and enterprise
+  networking and security hardware, and at one point owned the Palm handheld computing business. An
+  early Mayfield Fund portfolio investment (seed participation in 1981, alongside NEA, Venrock, and
+  Sequoia), 3Com later operated the 3Com, H3C, and TippingPoint brands before being acquired by
+  Hewlett-Packard in 2010 for roughly $2.7 billion, after which the standalone brand was wound down.
+  This record is a historical company profile; 3Com no longer operates an independent developer
+  portal, public API, or live product surface (the 3com.com domain now serves a placeholder page).
 url: https://raw.githubusercontent.com/api-evangelist/3com/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +28,28 @@ x-backed-by:
 - mayfield
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-acquired-by: hewlett-packard
+x-acquired-year: 2010
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Networking
+- Ethernet
+- Hardware
+- Enterprise
+- Network Security
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
