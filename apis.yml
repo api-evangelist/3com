@@ -64,3 +64,9 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/hewlett-packard/
+  name: Hewlett-Packard
+  x-relationship: acquired
+  x-evidence: "An early Mayfield Fund portfolio investment (seed participation in 1981, alongside NEA, Venrock, and Sequoia), 3Com later operated the 3Com, H3C, and TippingPoint brands before being acquired by Hewlett-Packard in 2010 for roughly $2."
