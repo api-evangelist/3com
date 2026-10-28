@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-3com is a company surfaced as a portfolio company of mayfield and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: mayfield
+3Com Corporation was a networking-technology pioneer founded in 1979 by Robert Metcalfe, the co-inventor of Ethernet, and colleagues; its name derived from "Computer, Communication, and Compatibility." 3Com built Ethernet network interface cards, switches, routers, and enterprise networking and security hardware, and at one point owned the Palm handheld computing business. An early Mayfield Fund portfolio investment (seed participation in 1981, alongside NEA, Venrock, and Sequoia), 3Com later operated the 3Com, H3C, and TippingPoint brands before being acquired by Hewlett-Packard in 2010 for roughly $2.7 billion, after which the standalone brand was wound down. This record is a historical company profile; 3Com no longer operates an independent developer portal, public API, or live product surface (the 3com.com domain now serves a placeholder page).
+
+**Areas:** Company · Networking · Ethernet · Hardware · Enterprise · Network Security · Defunct
+
+## 3com on APIs.io (historical record)
+
+Everything profiled for 3com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/3com/](https://apis.io/providers/3com/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 3com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/3com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
